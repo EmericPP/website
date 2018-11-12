@@ -41,11 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../emericWebsite/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="28" selection-start-column="28" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../emericWebsite/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -84,6 +93,7 @@
         <option value="$PROJECT_DIR$/../emericWebsite/src/index.js" />
         <option value="$PROJECT_DIR$/../emericWebsite/src/test.scss" />
         <option value="$PROJECT_DIR$/../emericWebsite/webpack.config.js" />
+        <option value="$PROJECT_DIR$/../emericWebsite/.gitignore" />
       </list>
     </option>
   </component>
@@ -174,15 +184,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542022710050</updated>
-      <workItem from="1542022711283" duration="4342000" />
+      <workItem from="1542022711283" duration="4518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4342000" />
+    <option name="totallyTimeSpent" value="4518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986821" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -255,6 +266,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../emericWebsite/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
